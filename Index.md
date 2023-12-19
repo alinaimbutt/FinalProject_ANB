@@ -47,5 +47,5 @@ Considering the religious landscape, the study does not only provide insights in
 
 This research contributes to a broader understanding of the complex interconnections between socioeconomic factors and religious institutions, offering a foundation for further investigations into the dynamics of faith communities within the diverse urban context of New York City. As cities continue to evolve, such studies become essential for fostering inclusivity and addressing the unique needs of different demographic groups, enriching our comprehension of the intricate relationship between socioeconomic dynamics and religious practices in contemporary urban environments.
 ## Interactive map to view different Religious Cities across New York City vs Median Income along with Heat Map
-<iframe src='nyc_map.html' width = '900' height = '900' ></iframe>
+<iframe src="nyc_map.html" width = '900' height = '900' ></iframe>
 You can also explore [this map as its own web page here](nyc_map.html)
