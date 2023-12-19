@@ -38,7 +38,14 @@ Asian (Non-Hispanic) residents, the second and third most common ethnic groups.
 The map below shows that regardless of the borough, religious places are in almost every part of NYC
 ![Places of Worship map](https://github.com/alinaimbutt/FinalProject_ANB/assets/70640124/49161c0c-9edc-4231-bd2d-012bc9277433)
 
+## Conclusion
+In conclusion, the exploration of the socioeconomic dynamics of places of worship in New York City through a comparative analysis of median age and median income across different religious institutions reveals a nuanced relationship between demographic factors and economic standing. The backdrop of New York City's diverse population, comprising 8.74 million people, showcases a rich tapestry of ethnicities and backgrounds, with 36.3% of residents born outside the country.
 
+Examining median income distribution, the city's average annual household income of $113,315 underscores economic diversity. Notably, residents aged 25 to 44 boast a median wage of $87,626, while those aged 45 to 64 have a median income of $76,018. In contrast, younger individuals (under 25) and seniors (over 65) earn less, at $48,585 and $43,340, respectively. These figures illuminate the interplay between age demographics and financial well-being in the city.
+
+Considering the religious landscape, the study does not only provide insights into the socioeconomic characteristics of New York City but also prompts contemplation on the potential correlations between religious affiliations and economic status. As individuals from various racial and ethnic backgrounds contribute to the city's diverse makeup, the places of worship within these communities likely play multifaceted roles in shaping and reflecting the economic experiences of their congregants.
+
+This research contributes to a broader understanding of the complex interconnections between socioeconomic factors and religious institutions, offering a foundation for further investigations into the dynamics of faith communities within the diverse urban context of New York City. As cities continue to evolve, such studies become essential for fostering inclusivity and addressing the unique needs of different demographic groups, enriching our comprehension of the intricate relationship between socioeconomic dynamics and religious practices in contemporary urban environments.
 ## Interactive map to view different Religious Cities across New York City vs Median Income along with Heat Map
 <iframe src='nyc_map.html' width = '900' height = '900' ></iframe>
 You can also explore [this map as its own web page here](nyc_map.html)
